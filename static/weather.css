@@ -1,0 +1,28 @@
+body{
+	background-image: url(weather);
+}
+header{
+	background-image: url(weather (1).svg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center; 
+}
+.container{
+	width: 40%;
+	margin: 100px auto;
+}
+input{
+	width:100%;
+	height: 40px;
+	border: none;
+	border-bottom: 0.5px solid blue;
+	color:white;
+}
+h1{
+	text-align: center;
+	color: black;
+}
+
+
+
+
